@@ -79,5 +79,5 @@ function citynotfound(data){
   document.querySelector(".humidity").style.position = "absolute";
   document.querySelector(".humidity").style.visibility = "hidden";
   document.querySelector(".wind").style.position = "absolute";
-  document.querySelector(".wind").style.visibility = "hidden"
+  document.querySelector(".wind").style.visibility = "hidden";
 }
