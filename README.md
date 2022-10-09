@@ -1,2 +1,2 @@
 # Weather-app
-A weather app developed using JS with weather API
+A weather app developed using HTML, CSS, JS with weather API
