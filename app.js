@@ -72,6 +72,14 @@ function noinput(data){
   document.querySelector(".wind").style.visibility = "hidden";
 }
 
+function citynotfound(data){
+  document.querySelector(".location-city").innerHTML = "City not found";
+  document.querySelector(".temperature-degree").style.position = "absolute";
+  document.querySelector(".temperature-degree").style.visibility = "hidden";
+  document.querySelector(".humidity").style.position = "absolute";
+  document.querySelector(".humidity").style.visibility = "hidden";
+  document.querySelector(".wind").style.position = "absolute";
+  document.querySelector(".wind").style.visibility = "hidden";
 
 
 }
