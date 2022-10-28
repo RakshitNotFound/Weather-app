@@ -81,4 +81,4 @@ function citynotfound(data){
   document.querySelector(".wind").style.position = "absolute";
   document.querySelector(".wind").style.visibility = "hidden";
 
-
+}
