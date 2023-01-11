@@ -122,8 +122,4 @@ h1.temp {
   height: 100px;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-image: "url('https://unsplash.com/photos/MF9Wy1NA55I')";
-  }
-}
+
